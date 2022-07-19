@@ -298,6 +298,7 @@ C:\Users\Maria Eduarda Santos\source\repos\storeproject\bin\Debug\net6.0\EntityF
 C:\Users\Maria Eduarda Santos\source\repos\storeproject\bin\Debug\net6.0\Humanizer.dll
 C:\Users\Maria Eduarda Santos\source\repos\storeproject\bin\Debug\net6.0\MessagePack.dll
 C:\Users\Maria Eduarda Santos\source\repos\storeproject\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Maria Eduarda Santos\source\repos\storeproject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Maria Eduarda Santos\source\repos\storeproject\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\Maria Eduarda Santos\source\repos\storeproject\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 C:\Users\Maria Eduarda Santos\source\repos\storeproject\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
@@ -537,8 +538,6 @@ C:\Users\Maria Eduarda Santos\source\repos\storeproject\bin\Debug\net6.0\runtime
 C:\Users\Maria Eduarda Santos\source\repos\storeproject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\Maria Eduarda Santos\source\repos\storeproject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\Maria Eduarda Santos\source\repos\storeproject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Maria Eduarda Santos\source\repos\storeproject\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
-C:\Users\Maria Eduarda Santos\source\repos\storeproject\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\Maria Eduarda Santos\source\repos\storeproject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\Maria Eduarda Santos\source\repos\storeproject\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
 C:\Users\Maria Eduarda Santos\source\repos\storeproject\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
@@ -550,6 +549,7 @@ C:\Users\Maria Eduarda Santos\source\repos\storeproject\bin\Debug\net6.0\runtime
 C:\Users\Maria Eduarda Santos\source\repos\storeproject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\Maria Eduarda Santos\source\repos\storeproject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Maria Eduarda Santos\source\repos\storeproject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Maria Eduarda Santos\source\repos\storeproject\obj\Debug\net6.0\storeproject.csproj.AssemblyReference.cache
 C:\Users\Maria Eduarda Santos\source\repos\storeproject\obj\Debug\net6.0\storeproject.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Maria Eduarda Santos\source\repos\storeproject\obj\Debug\net6.0\storeproject.AssemblyInfoInputs.cache
 C:\Users\Maria Eduarda Santos\source\repos\storeproject\obj\Debug\net6.0\storeproject.AssemblyInfo.cs
@@ -561,5 +561,3 @@ C:\Users\Maria Eduarda Santos\source\repos\storeproject\obj\Debug\net6.0\storepr
 C:\Users\Maria Eduarda Santos\source\repos\storeproject\obj\Debug\net6.0\ref\storeproject.dll
 C:\Users\Maria Eduarda Santos\source\repos\storeproject\obj\Debug\net6.0\storeproject.pdb
 C:\Users\Maria Eduarda Santos\source\repos\storeproject\obj\Debug\net6.0\storeproject.genruntimeconfig.cache
-C:\Users\Maria Eduarda Santos\source\repos\storeproject\obj\Debug\net6.0\storeproject.csproj.AssemblyReference.cache
-C:\Users\Maria Eduarda Santos\source\repos\storeproject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
