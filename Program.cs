@@ -13,6 +13,7 @@ var connectionStrings = builder.Configuration.GetConnectionString("ConnectionStr
 builder.Services.AddDbContext<dbContext>
 (options => options.UseSqlServer(connectionStrings));
 builder.Services.AddScoped<UsersServices>();
+builder.Services.AddScoped<RequestItemServices>();
 
 var secretKey = "8cd89*2b7b97ef9489a/e4479d3f4ef0fc";
 builder.Services.AddAuthentication(x =>
